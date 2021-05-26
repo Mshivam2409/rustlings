@@ -8,18 +8,12 @@ _Note: If you're on MacOS, make sure you've installed Xcode and its developer to
 
 You will need to have Rust installed. You can get it by visiting https://rustup.rs. This'll also install Cargo, Rust's package/project manager.
 
-## Browser:
+## Installation
 
-[Run on Repl.it](https://repl.it/github/rust-lang/rustlings)
-
-[Open in Gitpod](https://gitpod.io/#https://github.com/rust-lang/rustlings)
-
-## Manually
-
-Basically: Clone the repository, checkout to the latest tag, run `cargo install`.
+Basically: Fork the repository by clicking the fork button at the top of t, clone your respository , **ensure you have changed your username below from Mshivam2409 to your username**, run `cargo install`.
 
 ```bash
-git clone https://github.com/Mshivam2409/Rustlings
+git clone https://github.com/Mshivam2409/rustlings
 cd rustlings
 cargo install --force --path .
 ```
